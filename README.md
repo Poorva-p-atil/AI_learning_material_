@@ -46,6 +46,6 @@ This project uses Machine Learning techniques to recommend AI learning materials
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/AI-learning-material.git
+git clone https://github.com/poorva patil/AI-learning-material.git
 cd AI-learning-material
 pip install -r requirements.txt
